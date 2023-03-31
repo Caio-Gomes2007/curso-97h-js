@@ -12,7 +12,7 @@ imprimirSoma()//por não ter nenhum valor , não tem como somar o valor
 
 //função com retorno
 function soma(a,b = 0){
-    return a+b          //como aki ele so retorna e não coloca como console.log , e necessário utilizar o console abaixo
+    return a/b          //como aki ele so retorna e não coloca como console.log , e necessário utilizar o console abaixo
 }
 
 console.log(soma(2,3))

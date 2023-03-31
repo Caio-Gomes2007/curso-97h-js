@@ -1,5 +1,5 @@
 const imprimirResultado = function(nota ){
-    switch(Math.floor(nota)){
+    switch(nota){
         case 10:
             case 9:
                 case 8:

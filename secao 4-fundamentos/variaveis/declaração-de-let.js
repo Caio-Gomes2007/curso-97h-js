@@ -5,3 +5,4 @@ base em qual escopo ele esta , ou seja , fora o valor dele e 1 , dentro e 2 */
     console.log('dentro == '+numero)
 }
 console.log('fora == '+numero)
+

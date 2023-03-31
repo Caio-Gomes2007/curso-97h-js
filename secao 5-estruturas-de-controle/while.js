@@ -8,3 +8,11 @@ while(opcao != 0){
     console.log('oção escolhida foi '+opcao)
 }
 console.log('ate a proxima')
+//WHILE(expressao)
+//      instrução
+
+var count = 10
+while(count < 10){
+    console.log(count)
+    count++
+}
